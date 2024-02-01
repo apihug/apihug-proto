@@ -32,8 +32,8 @@ It also provides a complete set of solutions and toolkits, ushering API developm
 ## Other 
 
 
-1. Ì†ΩÌ≤ù Website: [gitee](https://gitee.com/dearxuecom/apihug.com) | [github](https://github.com/apihug/apihug.com/)
-2. Ì†æÌµ∞ IDEA Plugin: [ApiHug - API design Copilot](https://plugins.jetbrains.com/plugin/23534-apihug--api-design-copilot/)
+1. Website: [gitee](https://gitee.com/dearxuecom/apihug.com) | [github](https://github.com/apihug/apihug.com/)
+2. IDEA Plugin: [ApiHug - API design Copilot](https://plugins.jetbrains.com/plugin/23534-apihug--api-design-copilot/)
 
 
 ## Refer
