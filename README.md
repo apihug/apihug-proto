@@ -5,8 +5,8 @@ ApiHug provides a brand-new API solution. It combines the majority of API servic
 This is also where the **hug** comes from. 
 
 
-<h1 align="center"> í ¾í´— ApiHug Ã— {Postman|Swagger|Api...} <br/>= å¿«â†‘ å‡†âˆš çœâ†“</h1>
-<h1 align="center"> í ¾í´— ApiHug Ã— {Postman|Swagger|Api...} <br/>= Fasterâ†‘ Accurateâˆš Cost-savingâ†“</h1>
+<h1 align="center">ApiHug Ã— {Postman|Swagger|Api...} <br/>= å¿«â†‘ å‡†âˆš çœâ†“</h1>
+<h1 align="center">ApiHug Ã— {Postman|Swagger|Api...} <br/>= Fasterâ†‘ Accurateâˆš Cost-savingâ†“</h1>
 
 **Design Principles of ApiHug:**
 
