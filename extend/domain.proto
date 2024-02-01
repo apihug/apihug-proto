@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+package hope.domain;
+
+import "google/protobuf/descriptor.proto";
+
+option java_multiple_files = true;
+option java_outer_classname = "DomainProto";
+option java_package = "hope.proto.domain";
+
+extend google.protobuf.FileOptions {
+    ProtoKind kind = 1773;
+}
+
+enum ProtoKind {
+
+    NA = 0;
+
+    //
+    //this is normally bean may be DTO,VO
+    //
+    BEAN = 1;
+    //
+    //IDL, interface define, RPC in the proto buffer
+    //Restful Service in the mico service
+    //
+    IDL = 2;
+
+
+    //enumeration or common business code
+    ENUM = 3;
+    //enumeration for error presentation only
+    ERROR = 4;
+
+    //
+    //the domain entity reserved for further used
+    //
+    ENTITY = 5;
+
+    //
+    //derived from the domain entity only
+    //delegate from the domain entity not same as DTO, VO
+    //reserved for further used
+    //
+    VIEW = 6 [deprecated = true];
+
+    // this is the description of this domain
+    DOMAIN = 7;
+
+    // the Open api specification information
+    OAS = 8;
+}
